@@ -8,7 +8,6 @@ This project builds a machine learning model to predict credit risk (default vs.
 - Gain interpretable insights into **what drives risk decisions**, using SHAP values
 - Lay the groundwork for **scalable deployment** in credit scoring systems
 
----
 
 ## 📊 Dataset
 
@@ -17,7 +16,6 @@ This project builds a machine learning model to predict credit risk (default vs.
 - **Target**: `credit_risk` (1 = Bad, 0 = Good)
 - **Features**: Loan amount, duration, credit history, age, employment, purpose, savings, etc.
 
----
 
 ## 🧠 Model Overview
 
@@ -28,7 +26,6 @@ This project builds a machine learning model to predict credit risk (default vs.
   - Recall for risky applicants: 90%
 - **Interpretability**: SHAP used to explain key model decisions
 
----
 
 ## 📈 Key Insights
 
@@ -36,7 +33,6 @@ This project builds a machine learning model to predict credit risk (default vs.
 - Model recall was prioritized to reduce false negatives (missed risky borrowers)
 - SHAP plots highlight the top features influencing each prediction
 
----
 
 ## 🧰 Tech Stack
 
